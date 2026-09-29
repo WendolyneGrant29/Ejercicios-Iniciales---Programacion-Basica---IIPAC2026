@@ -7,6 +7,6 @@ int main() {
     std::cin >> b;
     int suma = a + b;
     std::cout << "La suma es " << suma << std::endl;
-
+    std::cout << "gracias por usar el programa" << std::endl;
     return 0;
 }
